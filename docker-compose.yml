@@ -1,5 +1,5 @@
 services:
   app:
-    image: 2023b0131039/jenkins-demo
+    image: 2023b0131039/jenkins-demo:latest
     ports:
       - "3000:3000"
